@@ -10,6 +10,8 @@ This project will perform accurate facial recognition on a large dataset of huma
 
 ## Why Emotion Recognition?
 Emotion recogintion is highly beneficial in the following areas: 
-- Allows for more accurate Facial ID recognition on mobile devices. 
-- More accurate recognition in surveillance systems used for criminal identification. 
-- In areas such as the entertainment industry, emotion recognition will allow for real-time identification of an audience's reaction to mediums such as films, concerts, and other major events.
+- **Security**: Spotting abnormal facial patterns when a suspect is being interrogated/questioned, or for use in criminal identification in surveillance footage.
+- **Healthcare**: Provide real time patient feedback of pain or discomfort.
+- **Video Games**: Better understanding of facial points for game developers to create more accurate character depictions in their renderings.
+- **Automotive Industry**: Detect when drivers are unfit to drive (if falling asleep, extremely upset or angry, etc.)
+- **Human-Robot Interaction**: Interacting with a robotic social agent (ex. a automated response bot), it is helpful to receive emotional feedback on how the customer is feeling when interacting with this agent to better improve the agents performance.
