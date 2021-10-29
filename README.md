@@ -1,4 +1,4 @@
-# EmotionRecognition
+# Emotion Recognition
 ITCS 5152 Computer Vision, Fall 2021
 
 Group 15:
